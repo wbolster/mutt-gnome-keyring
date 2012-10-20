@@ -13,7 +13,7 @@
 #
 #   set folder = imaps://your.imap.server/
 #   set imap_user = "yourusername"
-#   source "~/.mutt/obtain-password yourusername your.imap.server imap"|
+#   source "~/bin/mutt-gnome-keyring-password.py yourusername your.imap.server imap"|
 #
 # Note the trailing | character in the last line!
 #
